@@ -1,0 +1,4 @@
+desensitize:
+  defines:
+    - {fieldName: "childrenPhone,parentPhone,wifePhone", section: "3,4"}
+    - {fieldName: "childrenName,parentName,wifeName", section: "1,1"}
