@@ -52,16 +52,21 @@ desensitize:
 
 ### 解密
 
-
+![image-20231018152756864](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018152756864.png)
 
 ### 脱敏
 
-
+![image-20231018152857041](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018152857041.png)
 
 ### 脱敏加密
 
+![image-20231018153000014](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018153000014.png)
+
+![image-20231018153059389](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018153059389.png)
 
 ### 加密
 
+![image-20231018154412919](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018154412919.png)
 
+![image-20231018154428237](https://github.com/Lost4ndFound/springboot-web-Desensitizedencryption/blob/main/img/image-20231018154428237.png)
 
